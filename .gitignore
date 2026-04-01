@@ -11,8 +11,11 @@ backend/node_modules/
 
 frontend/.env
 backend/.env
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 7986f6073442f30d66836ab938f6b1d1c6e368bf
 # testing
 /coverage
 
