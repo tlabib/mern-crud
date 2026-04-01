@@ -11,13 +11,14 @@ const getTasks = async(req,res)=>{
 
 const createTask = async(req,res)=>{
     try{
-        const {title,description,deadline,priority} = req.body;
+        const {title,description,deadline,priority,status} = req.body;
 
         const task = await Task.create({
             title,
             description,
             deadline,
             priority,
+            status,
             user:req.user.id
         });
 
