@@ -23,3 +23,6 @@ In this assignment you will complete the following tasks:
 ---
 
 # mern-crud
+
+CI test commit
+
