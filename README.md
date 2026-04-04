@@ -1,5 +1,17 @@
 # MERN Task Manager CRUD Application
 
+## Authentication Details:
+
+User credentials 
+
+email:
+```tmlabib@gmail.com```
+pass:  ```password```
+
+Admin: ```admin@gmail.com```
+pass: ```password```
+
+
 ## Project Overview
 
 This project is a full-stack CRUD Task Management application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The system allows users to register, login, manage tasks, and includes admin functionality with role-based access control. The project also demonstrates CI/CD practices and cloud deployment using AWS EC2.
